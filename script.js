@@ -1,5 +1,5 @@
 // กำหนดคะแนนใน JavaScript
-const studentScore = 3; // เปลี่ยนตัวเลขนี้ได้ตามต้องการ
+const studentScore = 95; // เปลี่ยนคะแนนได้ที่นี่
 
-// อัปเดตคะแนนบนหน้าเว็บ
+// แสดงคะแนนในหน้าเว็บ
 document.getElementById('score-display').textContent = studentScore;
